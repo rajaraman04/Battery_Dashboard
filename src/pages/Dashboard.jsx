@@ -90,7 +90,7 @@ export default function Dashboard() {
                     : "Refurb / Recycle"}
                 </div>
                 <div className="mt-2 text-sm text-white/70">
-                  This section will later be powered by your ML logic (SoH/RUL + anomaly flags + thermal stability).
+
                 </div>
 
                 <div className="mt-4 grid grid-cols-2 gap-3 text-sm">

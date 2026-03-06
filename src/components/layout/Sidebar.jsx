@@ -43,7 +43,7 @@ export default function Sidebar() {
       </div>
 
       <div className="mt-8 rounded-2xl border border-white/10 bg-white/5 p-3 text-xs text-white/70">
-        Tip: Sell confidence, not voltage. Show ROI + risk + forecast.
+        Sell confidence, not voltage.
       </div>
     </div>
   );
